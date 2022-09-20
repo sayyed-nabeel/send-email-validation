@@ -1,4 +1,4 @@
-alert("This project is only a simulation of sending email. No data is collected");
+alert("This project is only a simulation of sending email. No data is collected\n******RULES TO BE FOLLOWED******\n1.Email id fields are case sensitive.\n2.Enter full domain address like @gmail or @yahoo or so on.\n3.First letter should not be capital in 'TO' field.\n4.First letter should not be capital in 'FROM' fields.\n");
 
  eventListeners();
 //var
